@@ -5,42 +5,42 @@
 	"VitaminType": "Vitamin A",
 	"VitaminDescription": "Helps form and maintain healthy teeth, bones, soft tissue, mucous membranes, and skin.",
 	"VitaminImage": "https://raw.githubusercontent.com/JMP-Mason/VitaminsIT315/main/vitaminA.jpeg",
-	"VitaminSite": "https://medlineplus.gov/ency/article/002399.htm"
+	"VitaminSite": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
 	},
 	
 	{
 	"VitaminType": "Vitamin B",
 	"VitaminDescription": "Vitamin B are water-soluble vitamins. They are not stored in the body. Any leftover water-soluble vitamins leave the body through the urine. Although, the body keeps a small reserve of these vitamins, they have to be taken on a regular basis to prevent shortage in the body. Vitamin B12 is the only water-soluble vitamin that can be stored in the liver for many years.",
 	"VitaminImage": "https://raw.githubusercontent.com/JMP-Mason/VitaminsIT315/main/vitaminB.jpeg",
-	"VitaminSite": "https://medlineplus.gov/ency/article/002399.htm"
+	"VitaminSite": "https://byjus.com/biology/facts-about-vitamin-b/"
 	},
 	
 	{
 	"VitaminType": "Vitamin C",
 	"VitaminDescription": "Ascorbic acid, is an antioxidant that promotes healthy teeth and gums. It helps the body absorb iron and maintain healthy tissue. It is also essential for wound healing.",
 	"VitaminImage": "https://raw.githubusercontent.com/JMP-Mason/VitaminsIT315/main/vitaminC.jpeg",
-	"VitaminSite": "https://medlineplus.gov/ency/article/002399.htm"
+	"VitaminSite": "https://www.nutri-facts.org/en_US/nutrients/vitamins/c.html"
 	},
 	
 	{
 	"VitaminType": "Vitamin D",
 	"VitaminDescription": "Helps form and maintain healthy teeth, bones, soft tissue, mucous membranes, and skin.",
 	"VitaminImage": "https://raw.githubusercontent.com/JMP-Mason/VitaminsIT315/main/vitaminD.jpeg",
-	"VitaminSite": "https://medlineplus.gov/ency/article/002399.htm"
+	"VitaminSite": "https://www.medicalnewstoday.com/articles/161618"
 	},
 	
 	{
 	"VitaminType": "Vitamin E",
 	"VitaminDescription": "An antioxidant also known as tocopherol. It helps the body form red blood cells and use vitamin K.",
 	"VitaminImage": "https://raw.githubusercontent.com/JMP-Mason/VitaminsIT315/main/vitaminE.jpeg",
-	"VitaminSite": "https://medlineplus.gov/ency/article/002399.htm"
+	"VitaminSite": "https://www.nutri-facts.org/en_US/nutrients/vitamins/e.html"
 	},
 	
 	{
 	"VitaminType": "Vitamin K",
 	"VitaminDescription": "Must have and needed because without it, blood would not stick together (coagulate). Some studies suggest that it is important for bone health.",
 	"VitaminImage": "https://raw.githubusercontent.com/JMP-Mason/VitaminsIT315/main/vitaminK.jpeg",
-	"VitaminSite": "https://medlineplus.gov/ency/article/002399.htm"
+	"VitaminSite": "https://www.medicalnewstoday.com/articles/219867"
 	}
   ],
   "Status":"OK"
